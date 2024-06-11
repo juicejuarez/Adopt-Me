@@ -1,0 +1,10 @@
+node_modeules/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
+
+node_modules
+"node_module/" 
+"node_modules/" 
